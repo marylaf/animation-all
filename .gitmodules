@@ -1,0 +1,6 @@
+[submodule "3D-animation"]
+	path = 3D-animation
+	url = https://github.com/marylaf/3D-animation
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/marylaf/animation
